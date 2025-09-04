@@ -32,3 +32,40 @@ It allows users to **post, browse, buy, and sell** items within the campus commu
 ---
 
 ## 📂 Project Structure
+
+CampusBazar/
+│── public/ # Static assets
+│── src/
+│ ├── components/ # React components
+│ ├── App.js # Root component with routes
+│ ├── index.js # Entry point
+│ └── index.css # Global styles
+│── package.json # Dependencies & scripts
+│── README.md # Project documentation
+
+---
+
+## ⚙️ Installation & Setup
+
+### Clone the repository
+```bash
+git clone https://github.com/your-username/CampusBazar.git
+cd CampusBazar
+npm install
+npm start
+The app will run at 👉 http://localhost:3000/
+
+📌 Future Improvements
+
+✅ Add user authentication (JWT / OAuth)
+
+✅ Implement item posting & search
+
+✅ Secure backend APIs
+
+✅ Deploy to Vercel/Netlify (frontend) and Render/Heroku (backend)
+
+👨‍💻 Author
+
+Chiranshu Kataria
+B.Tech Electrical Engineering @ IIT Kanp
