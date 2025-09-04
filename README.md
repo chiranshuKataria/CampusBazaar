@@ -67,6 +67,7 @@ The app will run at 👉 http://localhost:3000/
 
 Chiranshu Kataria
 B.Tech Electrical Engineering @ IIT Kanpur
+
 📧 Email: kataria22@iitk.ac.in
 
 🔗 GitHub: chiranshuKataria
