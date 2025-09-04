@@ -4,8 +4,6 @@
 ![Node.js](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js)
 ![Express](https://img.shields.io/badge/Framework-Express-black?logo=express)
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen?logo=mongodb)
-![License](https://img.shields.io/badge/License-ISC-yellow)
-![Status](https://img.shields.io/badge/Status-Development-orange)
 
 ---
 
@@ -68,4 +66,9 @@ The app will run at 👉 http://localhost:3000/
 👨‍💻 Author
 
 Chiranshu Kataria
-B.Tech Electrical Engineering @ IIT Kanp
+B.Tech Electrical Engineering @ IIT Kanpur
+📧 Email: kataria22@iitk.ac.in
+
+🔗 GitHub: chiranshuKataria
+
+🔗 LinkedIn: Chiranshu Kataria
