@@ -31,15 +31,15 @@ It allows users to **post, browse, buy, and sell** items within the campus commu
 
 ## 📂 Project Structure
 
-CampusBazar/
-│── public/ # Static assets
-│── src/
-│ ├── components/ # React components
-│ ├── App.js # Root component with routes
-│ ├── index.js # Entry point
-│ └── index.css # Global styles
-│── package.json # Dependencies & scripts
-│── README.md # Project documentation
+CampusBazar/<br>
+│── public/ # Static assets<br>
+│── src/<br>
+│ ├── components/ # React components<br>
+│ ├── App.js # Root component with routes<br>
+│ ├── index.js # Entry point<br>
+│ └── index.css # Global styles<br>
+│── package.json # Dependencies & scripts<br>
+│── README.md # Project documentation<br>
 
 ---
 
